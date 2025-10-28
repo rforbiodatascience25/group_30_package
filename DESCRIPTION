@@ -5,33 +5,33 @@ Version: 0.1.0
 Authors@R: c(
     person(
       given = "Karolina", 
-      family = "Doe",
-      email = "jane@example.com",
+      family = "Nordkamp",
+      email = "s244854@dtu.dk",
       role = c("aut", "cre")
     ),
     person(
       given = "Malaika", 
-      family = "Doe",
-      email = "jane@example.com",
-      role = c("aut", "cre")
+      family = "Khiljee",
+      email = "s245618@dtu.dk",
+      role = c("aut")
     ),
     person(
       given = "Isabella", 
-      family = "Doe",
-      email = "jane@example.com",
-      role = c("aut", "cre")
+      family = "Christoffersen",
+      email = "isabella.t.chr@gmail.com",
+      role = c("aut")
     ),
     person(
       given = "Andreas", 
       family = "Doe",
       email = "jane@example.com",
-      role = c("aut", "cre")
+      role = c("aut")
     ),
     person(
       given = "Kasia", 
-      family = "Doe",
-      email = "jane@example.com",
-      role = c("aut", "cre")
+      family = "Mucha",
+      email = "s222846@dtu.dk",
+      role = c("aut")
     )
   )
 Description: More about what it does (maybe more than one line).
