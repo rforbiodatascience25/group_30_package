@@ -7,7 +7,11 @@
 dna_to_rna(dna_sequence)
 }
 \arguments{
+<<<<<<< HEAD
 \item{dna_Sequence:}{A string containing a polynucleotide sequence of DNA.}
+=======
+\item{dna_sequence:}{A string containing a polynucleotide sequence of DNA.}
+>>>>>>> 0048833e96811b948af430df5b708c6792c807e1
 }
 \value{
 dna_sequence: A string containing a polynucleotide sequence of RNA.
