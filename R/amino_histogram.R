@@ -1,5 +1,8 @@
 #' Generate histogram of amino acids
 #'
+#'@importFrom stringr str_split boundary str_count
+#'@import ggplot2
+#'
 #' @param amino_sequence An amino acid sequence string
 #'
 #' @returns histogram_ggplot
