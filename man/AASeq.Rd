@@ -16,5 +16,5 @@ amine acid sequence: a string containing the corresponding amino acid sequence
 Finding amino acid sequence from codons
 }
 \examples{
-name_me(standard_codon) ->
+AASeq2() -> FSYCFSYCLS__LS_WLPHRLPHRLPQRLPQRITNSITNSITKRMTKRVADGVADGVAEGVAEG
 }
