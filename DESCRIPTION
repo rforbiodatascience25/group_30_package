@@ -1,0 +1,41 @@
+Package: centralD
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: c(
+    person(
+      given = "Karolina", 
+      family = "Doe",
+      email = "jane@example.com",
+      role = c("aut", "cre")
+    ),
+    person(
+      given = "Malaika", 
+      family = "Doe",
+      email = "jane@example.com",
+      role = c("aut", "cre")
+    ),
+    person(
+      given = "Isabella", 
+      family = "Doe",
+      email = "jane@example.com",
+      role = c("aut", "cre")
+    ),
+    person(
+      given = "Andreas", 
+      family = "Doe",
+      email = "jane@example.com",
+      role = c("aut", "cre")
+    ),
+    person(
+      given = "Kasia", 
+      family = "Doe",
+      email = "jane@example.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: More about what it does (maybe more than one line).
+    Continuation lines should be indented.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
