@@ -13,25 +13,25 @@ Authors@R: c(
       given = "Malaika", 
       family = "Khiljee",
       email = "s245618@dtu.dk",
-      role = c("cre")
+      role = c("aut")
     ),
     person(
       given = "Isabella", 
       family = "Christoffersen",
       email = "isabella.t.chr@gmail.com",
-      role = c("cre")
+      role = c("aut")
     ),
     person(
       given = "Andreas", 
       family = "Doe",
       email = "jane@example.com",
-      role = c("cre")
+      role = c("aut")
     ),
     person(
       given = "Kasia", 
       family = "Mucha",
       email = "s222846@dtu.dk",
-      role = c("cre")
+      role = c("aut")
     )
   )
 Description: More about what it does (maybe more than one line).
